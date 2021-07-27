@@ -3,6 +3,6 @@
 
 [Jiwon Lee](https://dacon.io/myprofile/403555/home)
 
-### **참가한 Competition**
+### 참가한 Competition
 * [구내식당 식수 인원 예측 AI 경진대회](https://dacon.io/competitions/official/235743/overview/description) : (244/481)
 * [공공데이터 활용 수력 댐 강우예측 AI 경진대회](https://dacon.io/competitions/official/235646/overview/description) : (92/505)
